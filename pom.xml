@@ -117,7 +117,7 @@
 
         <servlet-api.version>2.5</servlet-api.version>
         <jsp-api.version>2.2</jsp-api.version>
-        <jstl.version>1.2</jstl.version>
+        <jstl.version>1.2-rev-1</jstl.version>
 
         <maven-surefire-plugin.version>3.0.0-M7</maven-surefire-plugin.version>
         <maven-jar-plugin.version>3.2.2</maven-jar-plugin.version>
